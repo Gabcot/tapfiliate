@@ -1,6 +1,6 @@
 {
   "name": "tapfiliate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to connect to the tapfiliate API",
   "main": "index.js",
   "scripts": {
